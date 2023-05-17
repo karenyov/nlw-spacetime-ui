@@ -17,8 +17,11 @@ npm i
 //eslint
 npm run lint
 
-// executando UI
-npm run dev
+//eslint
+npm run lint
+
+// prisma UI
+npm prisma studio
 ```
 
 
