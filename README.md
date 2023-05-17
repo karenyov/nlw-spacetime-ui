@@ -17,15 +17,12 @@ npm i
 //eslint
 npm run lint
 
-//eslint
-npm run lint
-
-// prisma UI
-npm prisma studio
+//run
+npm run dev
 ```
 
 
-URL API: http://127.0.0.1:5173/
+
 
 # Screenshots
 <p align="center">
