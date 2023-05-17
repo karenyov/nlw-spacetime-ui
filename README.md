@@ -14,6 +14,8 @@ Link [API](https://github.com/karenyov/nlw-spacetime-api).
 //instalando dependências 
 npm i 
 
+//eslint
+npm run lint
 
 // executando UI
 npm run dev
